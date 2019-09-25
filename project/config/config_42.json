@@ -1,0 +1,21 @@
+{
+	"config_ver": 1.0,
+	"max_num_round": 10000,
+	"model": "xgb",
+	"param": {
+		"eta": 0.3
+	},
+	"paths": {
+		"X_train": "../data/X_train.npz",
+		"Y_train": "../data/Y_train.npz",
+		"X_test": "../data/X_test.npz",
+		"Output": "../output/id_42.csv",
+		"Output_train": "../output_train/id_42.csv"
+	},
+	"preprocess": {
+		"module": "pca",
+		"param": {
+			"n_components": "mle"
+		}
+	}
+}

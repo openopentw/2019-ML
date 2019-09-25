@@ -1,0 +1,14 @@
+{
+    "file_list": [
+        {
+            "filename": "../output/id_26.csv",
+            "weight": 3.0
+        },
+        {
+            "filename": "../output/id_31.csv",
+            "weight": 1.0
+        }
+    ],
+    "combination": "norm",
+    "output": "../ensemble_output/en_20.csv"
+}

@@ -1,0 +1,11 @@
+{
+    "file_list": [
+        {
+            "filename": "../output/id_26.csv",
+            "weight": 1.0
+        }
+    ],
+    "param": {
+        "scaling_exp_decay": 0.01
+    }
+}

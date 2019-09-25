@@ -1,0 +1,15 @@
+{
+    "file_list": [
+        {
+            "filename": "../output/xgb_500.csv",
+            "weight": 1.984037190697778142223364851285
+        },
+        {
+            "filename": "../output/rf.csv",
+            "weight": 1.616211010182145526257618636878
+        }
+    ],
+    "param": {
+        "normalized": true
+    }
+}

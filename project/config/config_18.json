@@ -1,0 +1,16 @@
+{
+	"max_num_round": 10000,
+	"model": "xgb",
+	"param": {
+		"eta": 0.1
+	},
+	"paths": {
+		"X_train": "../data/X_train.npz",
+		"Y_train": "../data/Y_train.npz",
+		"X_test": "../data/X_test.npz",
+		"Output": "../output/18.csv"
+	},
+	"pred_order": [
+		2, 1, 0
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "file_list": [
+        {
+            "filename": "../output/id_7.csv",
+            "weight": 1.0
+        }
+    ],
+    "param": {
+        "normalized": false,
+        "scaling": 0.95
+    }
+}

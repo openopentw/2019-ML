@@ -1,0 +1,15 @@
+{
+	"max_num_round": 15000,
+	"model": "xgb",
+	"param": {
+		"eta": 0.06
+	},
+	"paths": {
+		"X_train": "../data/X_train.npz",
+		"Y_train": "../data/Y_train.npz",
+		"X_test": "../data/X_test.npz",
+		"Output": "../output/id_39.csv",
+		"Output_train": "../output_train/id_39.csv"
+	},
+	"preprocess": "first_5000"
+}

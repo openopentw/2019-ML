@@ -1,0 +1,12 @@
+{
+	"model": "rfr",
+	"param": {
+		"max_depth": 6
+	},
+	"paths": {
+		"X_train": "../data/X_train.npz",
+		"Y_train": "../data/Y_train.npz",
+		"X_test": "../data/X_test.npz",
+		"Output": "../output/id_22.csv"
+	}
+}

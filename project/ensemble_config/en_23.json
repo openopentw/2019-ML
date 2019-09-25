@@ -1,0 +1,12 @@
+{
+    "file_list": [
+        {
+            "filename": "../output/id_28.csv",
+            "weight": 1.0
+        }
+    ],
+    "adjust": {
+        "exp": 0.95
+    },
+    "output": "../ensemble_output/en_23.csv"
+}

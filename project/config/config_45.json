@@ -1,0 +1,14 @@
+{
+	"model": "svm",
+	"param": {
+	},
+	"paths": {
+		"X_train": "../data/X_train.npz",
+		"Y_train": "../data/Y_train.npz",
+		"X_test": "../data/X_test.npz",
+		"Output": "../output/id_45.csv",
+		"Output_train": "../output_train/id_45.csv"
+	},
+	"preprocess": "first_5000",
+	"process_y": "log_exp"
+}
